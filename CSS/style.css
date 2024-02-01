@@ -33,7 +33,7 @@ header h4 {
 }
 
 header img {
-    max-width: 100%;
+    max-width: 300%;
     height: 300px;
 }
 
@@ -72,7 +72,7 @@ header img {
     margin-bottom: 20px;
     border: 10px;
     border-radius: 5px;
-    background-color: burlywood;
+    background-color:burlywood;
 }
 
 .container input {
@@ -90,7 +90,7 @@ header img {
     padding: 10px;
 }
 
-input[type=submit] {
+button {
     background-color: black;
     color: white;
     padding: 12px 20px;
@@ -101,8 +101,8 @@ input[type=submit] {
 
 }
 
-input[type=submit]:hover {
-    background-color: brown;
+button:hover {
+    background-color:brown;
   }
 
   .container h3 {
